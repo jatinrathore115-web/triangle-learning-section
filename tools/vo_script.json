@@ -1,0 +1,502 @@
+[
+ {
+  "id": "vo084",
+  "line": "Let’s explore triangles",
+  "spoken": "Let’s explore triangles"
+ },
+ {
+  "id": "vo085",
+  "line": "Before we return to the tunnel, learn how to recognise them.",
+  "spoken": "Before we return to the tunnel, learn how to recognise them."
+ },
+ {
+  "id": "vo001",
+  "line": "Triangles can look different.",
+  "spoken": "Triangles can look different."
+ },
+ {
+  "id": "vo002",
+  "line": "Let’s explore what makes them triangles.",
+  "spoken": "Let’s explore what makes them triangles."
+ },
+ {
+  "id": "vo003",
+  "line": "This is a triangle.",
+  "spoken": "This is a triangle."
+ },
+ {
+  "id": "vo004",
+  "line": "A triangle is a closed shape",
+  "spoken": "A triangle is a closed shape"
+ },
+ {
+  "id": "vo005",
+  "line": "with three straight sides.",
+  "spoken": "with three straight sides."
+ },
+ {
+  "id": "vo006",
+  "line": "Triangles can have different shapes.",
+  "spoken": "Triangles can have different shapes."
+ },
+ {
+  "id": "vo007",
+  "line": "Let’s explore their sides.",
+  "spoken": "Let’s explore their sides."
+ },
+ {
+  "id": "vo008",
+  "line": "Let’s measure the sides of this triangle.",
+  "spoken": "Let’s measure the sides of this triangle."
+ },
+ {
+  "id": "vo009",
+  "line": "What do you notice about the sides?",
+  "spoken": "What do you notice about the sides?"
+ },
+ {
+  "id": "vo086",
+  "line": "All three are different",
+  "spoken": "All three are different"
+ },
+ {
+  "id": "vo087",
+  "line": "Two sides are equal",
+  "spoken": "Two sides are equal"
+ },
+ {
+  "id": "vo088",
+  "line": "All three are equal",
+  "spoken": "All three are equal"
+ },
+ {
+  "id": "vo010",
+  "line": "Look at the side lengths again.",
+  "spoken": "Look at the side lengths again."
+ },
+ {
+  "id": "vo011",
+  "line": "Yes! 5 cm, 4 cm and 6 cm are all different.",
+  "spoken": "Yes! five centimetres, four centimetres and six centimetres are all different."
+ },
+ {
+  "id": "vo012",
+  "line": "All three sides are different.",
+  "spoken": "All three sides are different."
+ },
+ {
+  "id": "vo013",
+  "line": "A triangle with all three sides different is called a scalene triangle.",
+  "spoken": "A triangle with all three sides different is called a scalene triangle."
+ },
+ {
+  "id": "vo014",
+  "line": "What if two sides were equal?",
+  "spoken": "What if two sides were equal?"
+ },
+ {
+  "id": "vo015",
+  "line": "All three are equal now. Make just two equal.",
+  "spoken": "All three are equal now. Make just two equal."
+ },
+ {
+  "id": "vo016",
+  "line": "Tip: make the two slanted sides show the same number.",
+  "spoken": "Tip: make the two slanted sides show the same number."
+ },
+ {
+  "id": "vo017",
+  "line": "Drag a vertex to make two sides equal.",
+  "spoken": "Drag a vertex to make two sides equal."
+ },
+ {
+  "id": "vo018",
+  "line": "Watch the numbers change as you drag.",
+  "spoken": "Watch the numbers change as you drag."
+ },
+ {
+  "id": "vo019",
+  "line": "Two sides are equal.",
+  "spoken": "Two sides are equal."
+ },
+ {
+  "id": "vo020",
+  "line": "A triangle with two equal sides is called an isosceles triangle.",
+  "spoken": "A triangle with two equal sides is called an isosceles triangle."
+ },
+ {
+  "id": "vo021",
+  "line": "Tip: the base is the third side — make the other two match it.",
+  "spoken": "Tip: the base is the third side, make the other two match it."
+ },
+ {
+  "id": "vo022",
+  "line": "Can you make all three sides equal?",
+  "spoken": "Can you make all three sides equal?"
+ },
+ {
+  "id": "vo023",
+  "line": "Drag a vertex until the three lengths match.",
+  "spoken": "Drag a vertex until the three lengths match."
+ },
+ {
+  "id": "vo024",
+  "line": "All three sides are equal.",
+  "spoken": "All three sides are equal."
+ },
+ {
+  "id": "vo025",
+  "line": "A triangle with all three sides equal is called an equilateral triangle.",
+  "spoken": "A triangle with all three sides equal is called an equilateral triangle."
+ },
+ {
+  "id": "vo026",
+  "line": "Challenge time.",
+  "spoken": "Challenge time."
+ },
+ {
+  "id": "vo027",
+  "line": "Make this triangle isosceles.",
+  "spoken": "Make this triangle isosceles."
+ },
+ {
+  "id": "vo028",
+  "line": "All three sides are equal — make exactly two equal.",
+  "spoken": "All three sides are equal, make exactly two equal."
+ },
+ {
+  "id": "vo029",
+  "line": "Hint: drag the top vertex until two sides show the same length.",
+  "spoken": "Hint: drag the top vertex until two sides show the same length."
+ },
+ {
+  "id": "vo030",
+  "line": "Great! This triangle is isosceles.",
+  "spoken": "Great! This triangle is isosceles."
+ },
+ {
+  "id": "vo031",
+  "line": "Sort the triangles by their sides.",
+  "spoken": "Sort the triangles by their sides."
+ },
+ {
+  "id": "vo032",
+  "line": "Drag a triangle into its group — or tap a triangle, then tap a group.",
+  "spoken": "Drag a triangle into its group, or tap a triangle, then tap a group."
+ },
+ {
+  "id": "vo033",
+  "line": "Great job! You sorted all the triangles.",
+  "spoken": "Great job! You sorted all the triangles."
+ },
+ {
+  "id": "vo034",
+  "line": "Now let’s measure the angles.",
+  "spoken": "Now let’s measure the angles."
+ },
+ {
+  "id": "vo035",
+  "line": "What do you notice about the angles?",
+  "spoken": "What do you notice about the angles?"
+ },
+ {
+  "id": "vo089",
+  "line": "All are acute angles",
+  "spoken": "All are acute angles"
+ },
+ {
+  "id": "vo090",
+  "line": "One angle is a right angle",
+  "spoken": "One angle is a right angle"
+ },
+ {
+  "id": "vo091",
+  "line": "One angle is obtuse",
+  "spoken": "One angle is obtuse"
+ },
+ {
+  "id": "vo036",
+  "line": "Check the angles once more.",
+  "spoken": "Check the angles once more."
+ },
+ {
+  "id": "vo037",
+  "line": "Yes! All three are acute angles.",
+  "spoken": "Yes! All three are acute angles."
+ },
+ {
+  "id": "vo038",
+  "line": "All three angles are less than 90°.",
+  "spoken": "All three angles are less than ninety degrees."
+ },
+ {
+  "id": "vo039",
+  "line": "So they are acute angles.",
+  "spoken": "So they are acute angles."
+ },
+ {
+  "id": "vo040",
+  "line": "A triangle with three acute angles is called an acute-angled triangle.",
+  "spoken": "A triangle with three acute angles is called an acute angled triangle."
+ },
+ {
+  "id": "vo041",
+  "line": "Tip: find an angle in the 80s and keep opening it.",
+  "spoken": "Tip: find an angle in the eighties and keep opening it."
+ },
+ {
+  "id": "vo042",
+  "line": "Can you make one angle exactly 90°?",
+  "spoken": "Can you make one angle exactly ninety degrees?"
+ },
+ {
+  "id": "vo043",
+  "line": "Drag a vertex — the angles change live.",
+  "spoken": "Drag a vertex, the angles change live."
+ },
+ {
+  "id": "vo044",
+  "line": "One angle is exactly 90°.",
+  "spoken": "One angle is exactly ninety degrees."
+ },
+ {
+  "id": "vo045",
+  "line": "A triangle with one angle of exactly 90° is called a right-angled triangle.",
+  "spoken": "A triangle with one angle of exactly ninety degrees is called a right angled triangle."
+ },
+ {
+  "id": "vo046",
+  "line": "What if one angle were greater than 90°?",
+  "spoken": "What if one angle were greater than ninety degrees?"
+ },
+ {
+  "id": "vo047",
+  "line": "Tip: open one corner wider than a square corner.",
+  "spoken": "Tip: open one corner wider than a square corner."
+ },
+ {
+  "id": "vo048",
+  "line": "Drag a vertex to make any angle obtuse.",
+  "spoken": "Drag a vertex to make any angle obtuse."
+ },
+ {
+  "id": "vo049",
+  "line": "Make one corner wider than a right angle.",
+  "spoken": "Make one corner wider than a right angle."
+ },
+ {
+  "id": "vo050",
+  "line": "One angle is greater than 90°.",
+  "spoken": "One angle is greater than ninety degrees."
+ },
+ {
+  "id": "vo051",
+  "line": "A triangle with one angle greater than 90° is called an obtuse-angled triangle.",
+  "spoken": "A triangle with one angle greater than ninety degrees is called an obtuse angled triangle."
+ },
+ {
+  "id": "vo052",
+  "line": "Which of these are acute-angled triangles?",
+  "spoken": "Which of these are acute angled triangles?"
+ },
+ {
+  "id": "vo053",
+  "line": "You can choose more than one.",
+  "spoken": "You can choose more than one."
+ },
+ {
+  "id": "vo054",
+  "line": "Tap every triangle whose angles are all less than 90°.",
+  "spoken": "Tap every triangle whose angles are all less than ninety degrees."
+ },
+ {
+  "id": "vo101",
+  "line": "Correct! These two triangles have only acute angles.",
+  "spoken": "Correct! These two triangles have only acute angles."
+ },
+ {
+  "id": "vo056",
+  "line": "Hint: one angle must read exactly 90°.",
+  "spoken": "Hint: one angle must read exactly ninety degrees."
+ },
+ {
+  "id": "vo057",
+  "line": "Make this triangle right-angled.",
+  "spoken": "Make this triangle right angled."
+ },
+ {
+  "id": "vo058",
+  "line": "Drag any vertex to create one 90° angle.",
+  "spoken": "Drag any vertex to create one ninety-degree angle."
+ },
+ {
+  "id": "vo059",
+  "line": "A triangle with one 90° angle is right-angled.",
+  "spoken": "A triangle with one ninety-degree angle is right angled."
+ },
+ {
+  "id": "vo060",
+  "line": "What type of triangle is this by its sides?",
+  "spoken": "What type of triangle is this by its sides?"
+ },
+ {
+  "id": "vo092",
+  "line": "Scalene",
+  "spoken": "Scalene"
+ },
+ {
+  "id": "vo093",
+  "line": "Isosceles",
+  "spoken": "Isosceles"
+ },
+ {
+  "id": "vo094",
+  "line": "Equilateral",
+  "spoken": "Equilateral"
+ },
+ {
+  "id": "vo061",
+  "line": "Two sides are 5 cm. It is isosceles.",
+  "spoken": "Two sides are five centimetres. It is isosceles."
+ },
+ {
+  "id": "vo062",
+  "line": "Now classify the same triangle by its angles.",
+  "spoken": "Now classify the same triangle by its angles."
+ },
+ {
+  "id": "vo095",
+  "line": "Acute-angled",
+  "spoken": "Acute angled"
+ },
+ {
+  "id": "vo096",
+  "line": "Right-angled",
+  "spoken": "Right angled"
+ },
+ {
+  "id": "vo097",
+  "line": "Obtuse-angled",
+  "spoken": "Obtuse angled"
+ },
+ {
+  "id": "vo063",
+  "line": "One angle is 90°. It is right-angled.",
+  "spoken": "One angle is ninety degrees. It is right angled."
+ },
+ {
+  "id": "vo064",
+  "line": "This triangle is isosceles…",
+  "spoken": "This triangle is isosceles,"
+ },
+ {
+  "id": "vo065",
+  "line": "…and right-angled.",
+  "spoken": "and right angled."
+ },
+ {
+  "id": "vo066",
+  "line": "A triangle can be classified in two ways.",
+  "spoken": "A triangle can be classified in two ways."
+ },
+ {
+  "id": "vo067",
+  "line": "By its sides…",
+  "spoken": "By its sides,"
+ },
+ {
+  "id": "vo068",
+  "line": "…and by its angles.",
+  "spoken": "and by its angles."
+ },
+ {
+  "id": "vo098",
+  "line": "Acute",
+  "spoken": "Acute"
+ },
+ {
+  "id": "vo099",
+  "line": "Right",
+  "spoken": "Right"
+ },
+ {
+  "id": "vo100",
+  "line": "Obtuse",
+  "spoken": "Obtuse"
+ },
+ {
+  "id": "vo069",
+  "line": "Classify this triangle by its sides and angles.",
+  "spoken": "Classify this triangle by its sides and angles."
+ },
+ {
+  "id": "vo070",
+  "line": "Choose one answer in each row.",
+  "spoken": "Choose one answer in each row."
+ },
+ {
+  "id": "vo071",
+  "line": "Correct! This triangle is scalene and obtuse-angled.",
+  "spoken": "Correct! This triangle is scalene and obtuse angled."
+ },
+ {
+  "id": "vo072",
+  "line": "Final challenge.",
+  "spoken": "Final challenge."
+ },
+ {
+  "id": "vo073",
+  "line": "Make a right-angled isosceles triangle.",
+  "spoken": "Make a right angled isosceles triangle."
+ },
+ {
+  "id": "vo074",
+  "line": "You can classify triangles by sides and angles!",
+  "spoken": "You can classify triangles by sides and angles!"
+ },
+ {
+  "id": "vo075",
+  "line": "Let’s summarise what we learned.",
+  "spoken": "Let’s summarise what we learned."
+ },
+ {
+  "id": "vo076",
+  "line": "A scalene triangle has all sides different.",
+  "spoken": "A scalene triangle has all sides different."
+ },
+ {
+  "id": "vo077",
+  "line": "An isosceles triangle has two equal sides.",
+  "spoken": "An isosceles triangle has two equal sides."
+ },
+ {
+  "id": "vo078",
+  "line": "An equilateral triangle has all three sides equal.",
+  "spoken": "An equilateral triangle has all three sides equal."
+ },
+ {
+  "id": "vo079",
+  "line": "An acute-angled triangle has all angles less than 90°.",
+  "spoken": "An acute angled triangle has all angles less than ninety degrees."
+ },
+ {
+  "id": "vo080",
+  "line": "A right-angled triangle has one angle of exactly 90°.",
+  "spoken": "A right angled triangle has one angle of exactly ninety degrees."
+ },
+ {
+  "id": "vo081",
+  "line": "An obtuse-angled triangle has one angle greater than 90°.",
+  "spoken": "An obtuse angled triangle has one angle greater than ninety degrees."
+ },
+ {
+  "id": "vo082",
+  "line": "A triangle can be classified by both its sides and its angles.",
+  "spoken": "A triangle can be classified by both its sides and its angles."
+ },
+ {
+  "id": "vo083",
+  "line": "Well done, triangle explorer!",
+  "spoken": "Well done, triangle explorer!"
+ }
+]

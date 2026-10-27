@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Triangle Discovery Lab</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div id="viewport">
+  <div id="frame">
+
+    <!-- ===== Environment (soft, blurred, slow) ===== -->
+    <div id="bg">
+      <div class="bg-img"></div>
+      <div class="bg-light"></div>
+    </div>
+    <div id="ambient" aria-hidden="true"></div>
+
+    <!-- ===== Glass learning stage ===== -->
+    <div id="panel"></div>
+    <div id="platform"></div>
+
+    <svg id="stage" viewBox="0 0 1600 900" aria-label="Triangle learning stage">
+      <defs>
+        <linearGradient id="triFill" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#FFE15C"/>
+          <stop offset=".55" stop-color="#FFC93A"/>
+          <stop offset="1" stop-color="#FFB11E"/>
+        </linearGradient>
+        <radialGradient id="triSheen" cx=".38" cy=".3" r=".75">
+          <stop offset="0" stop-color="#FFFFFF" stop-opacity=".55"/>
+          <stop offset=".45" stop-color="#FFFFFF" stop-opacity=".12"/>
+          <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="triShadow">
+          <stop offset="0" stop-color="#8A5A12" stop-opacity=".26"/>
+          <stop offset="1" stop-color="#8A5A12" stop-opacity="0"/>
+        </radialGradient>
+        <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+          <feGaussianBlur stdDeviation="6"/>
+        </filter>
+        <filter id="lblShadow" x="-30%" y="-40%" width="160%" height="200%">
+          <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#1D2B53" flood-opacity=".14"/>
+        </filter>
+      </defs>
+      <g id="stageBack"></g>
+      <g id="triLayer"></g>
+      <g id="stageFront"></g>
+    </svg>
+
+    <div id="overlay"></div>
+
+    <!-- learner-paced navigation, same place on every screen -->
+    <nav id="nav" aria-label="Lesson navigation">
+      <button id="navBack" class="nav-btn" aria-label="Previous screen"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Back</span></button>
+      <button id="navNext" class="nav-btn next" aria-label="Next screen"><span>Next</span><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    </nav>
+
+    <!-- ===== Title screen: thumbnail + Start (also unlocks audio) ===== -->
+    <div id="start">
+      <img class="start-art" src="assets/thumbnail.jpg" alt="Types of Triangles" draggable="false">
+      <button id="startBtn" aria-label="Start the lesson">
+        <img src="assets/start-button.webp" alt="" draggable="false">
+      </button>
+    </div>
+  </div>
+  <div id="rotate">Turn your device sideways to explore triangles</div>
+</div>
+
+<script src="js/geometry.js"></script>
+<script src="js/anim.js"></script>
+<script src="js/audio.js"></script>
+<script src="js/triangle.js"></script>
+<script src="js/vo_lines.js"></script>
+<script src="js/voice.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/screens.js"></script>
+<script src="js/scenery.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

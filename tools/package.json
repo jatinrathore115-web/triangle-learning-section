@@ -1,0 +1,14 @@
+{
+  "name": "triangle-lab-vo-tools",
+  "private": true,
+  "description": "Voice-over pipeline: extract lines, drive the TTS studio, build Ogg Opus clips (see docs/VOICEOVER.md)",
+  "type": "module",
+  "scripts": {
+    "script": "node vo_make_script.mjs",
+    "build": "node vo_build.mjs",
+    "docs": "node vo_docs.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "1.47.2"
+  }
+}
